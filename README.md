@@ -54,7 +54,7 @@ The Laravel Chat Application is a real-time chat application built with Laravel,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/AqibUllah/chat.git
    cd repository
 
 2. **Install Dependencies**

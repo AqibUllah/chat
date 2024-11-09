@@ -1,6 +1,21 @@
 # Laravel Chat Application
 
-![Laravel Chat App](path/to/your-screenshot.jpg)
+### 1. Home Chat
+![Laravel Chat App](public/images/home-desktop.png)
+
+### 2. Home Chat Mobile
+![Laravel Chat App](public/images/home-mobile.png)
+
+### 3. Chat Desktop
+![Laravel Chat App](public/images/chat-desktop.png)
+
+### 4. Chat Desktop
+![Laravel Chat App](public/images/chat-desktop-2.png)
+
+### 5. Chat Desktop
+![Laravel Chat App](public/images/chat-mobile.png)
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
